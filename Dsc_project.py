@@ -31,6 +31,7 @@ from scipy.stats import chi2_contingency, mannwhitneyu
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder
 from statsmodels.stats.proportion import proportions_ztest, proportion_confint
+from IPython.display import display
 
 
 # ============================================================
